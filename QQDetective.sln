@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QQDetectiveConfiguration", "QQDetectiveConfiguration\QQDetectiveConfiguration.vcxproj", "{A6CE47A6-0C95-435B-9E81-FC0B78C20E46}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QDLog", "QDLog\QDLog.vcxproj", "{F9A70992-691A-417C-942F-AE33BB3251D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QDLogEx", "QDLogEx\QDLogEx.vcxproj", "{99B17249-C753-47A7-A021-C188C9E7DFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CE47A6-0C95-435B-9E81-FC0B78C20E46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6CE47A6-0C95-435B-9E81-FC0B78C20E46}.Debug|Win32.Build.0 = Debug|Win32
+		{A6CE47A6-0C95-435B-9E81-FC0B78C20E46}.Release|Win32.ActiveCfg = Release|Win32
+		{A6CE47A6-0C95-435B-9E81-FC0B78C20E46}.Release|Win32.Build.0 = Release|Win32
+		{F9A70992-691A-417C-942F-AE33BB3251D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9A70992-691A-417C-942F-AE33BB3251D5}.Debug|Win32.Build.0 = Debug|Win32
+		{F9A70992-691A-417C-942F-AE33BB3251D5}.Release|Win32.ActiveCfg = Release|Win32
+		{F9A70992-691A-417C-942F-AE33BB3251D5}.Release|Win32.Build.0 = Release|Win32
+		{99B17249-C753-47A7-A021-C188C9E7DFDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99B17249-C753-47A7-A021-C188C9E7DFDF}.Debug|Win32.Build.0 = Debug|Win32
+		{99B17249-C753-47A7-A021-C188C9E7DFDF}.Release|Win32.ActiveCfg = Release|Win32
+		{99B17249-C753-47A7-A021-C188C9E7DFDF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
