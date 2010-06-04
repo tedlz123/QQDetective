@@ -1,0 +1,8 @@
+TARGETNAME = QQDetective
+TARGETTYPE = DRIVER
+TRAGETPATH = ..\sys
+SOURCES = QDDriverEntry.c \
+			InterceptCreateProcess.c \
+			InterceptRegScan.c	\
+			InterceptOpenFile.c	\
+			QDFuncs.c
